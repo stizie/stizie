@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Patrick Machado, tenho 18 anos e sou natural do São Paulo. Atualmente, estou cursando Engenharia de Computação no IFSP. 
+Me chamo Patrick Machado, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Computação no IFSP. 
 
 ### 🤖 Linguagens e Tecnologias
 
