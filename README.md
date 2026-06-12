@@ -30,3 +30,12 @@ Me chamo Patrick Machado, tenho 18 anos e sou natural de São Paulo. Atualmente,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+<img 
+    align="left" 
+    alt="c++"
+    title="c++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
